@@ -1,0 +1,23 @@
+html {
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+
+td {
+    background-color: white;
+    border: 3px solid black;
+    font-size: 6rem;
+    color: black;
+    border-radius: 5px 5px 5px 5px;
+}
+
+
+/* 
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse
+The border-collapse CSS property sets whether 
+cells inside a <table>have shared or separate borders.
+*/
